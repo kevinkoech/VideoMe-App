@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#fa0</color>
+    <color name="colorPrimaryDark">#fa9000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="greyish">#AAAAAA</color>
+    <color name="sinch_purple">#FF4068</color>
+    <color name="signup">#ffa</color>
+</resources>
